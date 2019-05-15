@@ -33,7 +33,7 @@
 
 The high incidence rate of prostate disease poses a requirement in early detection for diagnosis. As one of the main imaging methods used for prostate cancer detection, Magnetic Resonance Imaging (MRI) has wide range of appearance and imbalance problems, making automated prostate segmentation fundamental but challenging. Here we propose a novel Densely Dilated Spatial Pooling Convolutional Network (DDSP ConNet) in encoder-decoder structure, which employs dense structure to combine dilated convolution and global pooling, thus supplying coarse segmentation results from encoder and decoder subnet and preserving more contextual information. Furtherly, to obtain richer hierarchical feature maps, residual long connection is adopted to fuse contexture features. Meanwhile, we adopt DSC loss and Jaccard loss functions to train our DDSP ConNet and we surprisingly found and proved that, in contrast to re-weighted cross entropy, DSC loss and Jaccard loss have a lot of benign properties in theory, including symmetry, continuity and differentiability about the parameters of network. To corroborate the effectiveness of our DDSP ConNet with DSC loss and Jaccard loss, extensive experiments have been done on the MICCAI PROMISE12 challenge dataset. In the test dataset , our method achieves a score of 85.78, outperforming most of other competitors.
 
-### 3 康越：Estimation of the number of endmembers via thresholding ridge ratio criterion
+### 3 康越：基于岭比收缩的高光谱图像端元个数估计方法
 
 #### 个人简介
 
