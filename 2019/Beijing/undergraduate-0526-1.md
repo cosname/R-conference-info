@@ -55,3 +55,12 @@ In various problems, data are represented and interpreted in the form of graphs,
 
 In our work, we establish the general computational lower bounds for inferring structural properties in simple zero-field Ising model, under which no polynomial-time queries can distinguish between two hypotheses. We found that the bound is related to certain structural property of the underlying graph which we define as vertex overlap ratio. Meanwhile, we propose specific query functions and test functions with polynomial computational budgets which attain the lower bounds for specific problems. We also discussed the relationship between information-theoretic limits and computational-efficient limits. We found that for clique detection and nearest neighbor graph detection problem, there is a gap between computational efficiency and statistical accuracy. However, for relatively sparse structure like perfect matching, there is no gap between computational efficiency and statistical accuracy. 
 
+### 5 林枫：从零开始的COSplay 
+
+#### 个人简介
+
+统计之都副主编，中国科学技术大学在读硕士，感兴趣的领域包括机器学习、优化理论等。
+
+#### 报告摘要
+
+统计之都（COS）一直致力于推广与应用统计学知识，分享有趣的数据科学方法与观点，为国内统计学和数据科学的发展贡献力量。我们也一直欢迎有志于将统计学和数据科学发扬光大的各界朋友加入到这个大家庭来。让我们一起探秘COS编辑部时尚时尚最时尚的在线投稿系统，解锁COS丰富的“玩法”，从零开始一场统计学与数据科学的精彩PLAY！ 
