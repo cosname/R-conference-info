@@ -13,7 +13,7 @@
 
 ## 本届精彩预告
 
-### 1 Xixi Li：Time series forecasting based on automatic feature extraction
+### 1 Xixi Li：Forecasting with time series imaging
 
 #### 个人简介
 
